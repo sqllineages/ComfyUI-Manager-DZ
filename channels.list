@@ -1,0 +1,5 @@
+default::https://raw.staticdn.net/ltdrdata/ComfyUI-Manager/main
+recent::https://raw.staticdn.net/ltdrdata/ComfyUI-Manager/main/node_db/new
+legacy::https://raw.staticdn.net/ltdrdata/ComfyUI-Manager/main/node_db/legacy
+forked::https://raw.staticdn.net/ltdrdata/ComfyUI-Manager/main/node_db/forked
+dev::https://raw.staticdn.net/ltdrdata/ComfyUI-Manager/main/node_db/dev
