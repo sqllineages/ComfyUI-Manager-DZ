@@ -1,2 +1,2 @@
-# ComfyUI-Manager-DZ
+# ComfyUI-Manager-DZ 
 download Models using mirror url
